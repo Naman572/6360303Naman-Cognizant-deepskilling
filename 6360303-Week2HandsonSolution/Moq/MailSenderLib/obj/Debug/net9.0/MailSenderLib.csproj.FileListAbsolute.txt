@@ -1,0 +1,11 @@
+C:\Users\KIIT\Desktop\6360303-Week2HandsonSolution\Moq\MailSenderLib\bin\Debug\net9.0\MailSenderLib.deps.json
+C:\Users\KIIT\Desktop\6360303-Week2HandsonSolution\Moq\MailSenderLib\bin\Debug\net9.0\MailSenderLib.dll
+C:\Users\KIIT\Desktop\6360303-Week2HandsonSolution\Moq\MailSenderLib\bin\Debug\net9.0\MailSenderLib.pdb
+C:\Users\KIIT\Desktop\6360303-Week2HandsonSolution\Moq\MailSenderLib\obj\Debug\net9.0\MailSenderLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\6360303-Week2HandsonSolution\Moq\MailSenderLib\obj\Debug\net9.0\MailSenderLib.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\6360303-Week2HandsonSolution\Moq\MailSenderLib\obj\Debug\net9.0\MailSenderLib.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\6360303-Week2HandsonSolution\Moq\MailSenderLib\obj\Debug\net9.0\MailSenderLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\6360303-Week2HandsonSolution\Moq\MailSenderLib\obj\Debug\net9.0\MailSenderLib.dll
+C:\Users\KIIT\Desktop\6360303-Week2HandsonSolution\Moq\MailSenderLib\obj\Debug\net9.0\refint\MailSenderLib.dll
+C:\Users\KIIT\Desktop\6360303-Week2HandsonSolution\Moq\MailSenderLib\obj\Debug\net9.0\MailSenderLib.pdb
+C:\Users\KIIT\Desktop\6360303-Week2HandsonSolution\Moq\MailSenderLib\obj\Debug\net9.0\ref\MailSenderLib.dll
